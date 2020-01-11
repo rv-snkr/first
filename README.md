@@ -8,7 +8,7 @@ RV-SNKR
 
 *-- Testing ABAP syntax highlighting
 
-	DATA: LT_TAB type table of STRING.
+	DATA: LT_TAB type table of STRING. "Data declarations
 	
 ```
 
