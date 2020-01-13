@@ -4,7 +4,7 @@
 
 Because the basic text editor that is present in any remote Unix/Linux server is vim
 
-How to quit Vim in the command mode type **:q** and hit enter.
+How to quit Vim in the command mode type ` :q ` and hit enter.
 
 Different commands in Vim
 
