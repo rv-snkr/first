@@ -1,6 +1,6 @@
 # First Repository creation from Git-Bash - Git Command line
 
-> First README as well
+> First README as well just like that
 
 RV-SNKR
 
